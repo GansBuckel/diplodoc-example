@@ -1,1 +1,5 @@
-langs: ['en']
+allowHTML: true
+langs: ['ru']
+search:
+  provider: local
+  confidense: sparsed
