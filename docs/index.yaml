@@ -1,0 +1,16 @@
+title: Программный комплекс «ГИС Нева»
+blocks:
+  - type: 'header-block'
+    width: 'l'
+    offset: 'default'
+    title: 'Программный комплекс «ГИС&nbsp;Нева»'
+    resetPaddings: true
+    verticalOffset: 'l'
+    description: '<p><strong>Программный комплекс предназначен для создания, обновления и обработки информации цифровых векторных карт, а также решения информационно-расчётных задач, разрабатываемых в виде отдельных программных приложений к ПК «ГИС Нева»</p>'
+    background:
+      image:
+        mobile: '_assets/backgr.png'
+        desktop: '_assets/backgr.png'
+      color: '#C6FE4D'
+      fullWidth: false
+      

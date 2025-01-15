@@ -1,0 +1,8 @@
+title: Часть 5. Операции над растровыми изображениями
+items:
+  - name: Общая информация
+    href: allinfo.md
+  - name: Основные понятия
+    href: baseconcept.md
+  - name: Основное меню головного программного модуля
+    href: mainmenu.md

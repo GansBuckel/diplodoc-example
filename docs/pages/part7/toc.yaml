@@ -1,0 +1,8 @@
+title: Часть 7. Работа с классификатором объектов
+items:
+  - name: Редактор классификатора
+    href: classeditor.md
+  - name: Редактор бланков
+    href: blankeditor.md
+  - name: Редактор знаков
+    href: signeditor.md

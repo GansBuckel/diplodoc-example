@@ -1,0 +1,8 @@
+title: Часть 3. Создание и редактирование объектов
+items:
+  - name: Общая информация
+    href: allinfo.md
+  - name: Основные понятия
+    href: baseconcept.md
+  - name: Основное меню головного программного модуля
+    href: mainmenu.md
