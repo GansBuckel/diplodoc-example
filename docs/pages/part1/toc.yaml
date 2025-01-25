@@ -1,8 +1,28 @@
-title: Часть 1. Общее описание
+title: Часть 1. Общее описание и основные понятия
 items:
   - name: Общая информация
     href: allinfo.md
-  - name: Основные понятия
-    href: baseconcept.md
+  - name: Цифровая карта
+    href: digitalmap.md
+  - name: Типы цифровых карт
+    href: digitalmap_types.md
+  - name: Структурная модель карты
+    href: digitalmap_strukture.md
+  - name: Объект цифровой карты
+    href: object_dm.md
+  - name: Привязка карты к местности
+    href: addgeomap.md
+  - name: Проект карт и активная карта
+    href: prjmap.md
+  - name: Правила описания условных логических выражений
+    href: logical_conditions.md
+  - name: Описание метаданных
+    href: metadata.md
+  - name: Служебные характеристики
+    href: service_atr.md
   - name: Основное меню головного программного модуля
     href: mainmenu.md
+  - name: Правила чтения UML-диаграмм
+    href: readuml.md
+    
+    

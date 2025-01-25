@@ -1,7 +1,7 @@
 title: ПК «ГИС&nbsp;Нева»
 href: index.yaml
 items:
-  - name: Общее описание
+  - name: Общее описание и основные понятия
     include: { mode: link, path: pages/part1/toc.yaml }
   - name: Управление составом и отображением
     include: { mode: link, path: pages/part2/toc.yaml }
@@ -10,7 +10,7 @@ items:
   - name: Операции над цифровыми картами
     include: { mode: link, path: pages/part4/toc.yaml }
   - name: Операции над растровыми изображениями
-    include: { mode: link, path: pages/part2/toc.yaml }
+    include: { mode: link, path: pages/part5/toc.yaml }
   - name: Работа с выборками объектов
     include: { mode: link, path: pages/part6/toc.yaml }
   - name: Работа с классификатором
