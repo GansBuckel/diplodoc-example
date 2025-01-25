@@ -1,5 +1,20 @@
 # Правила описания UML-диаграмм
 
+1
+
+![название](_images/agregaciya_obj.png "текст_подсказки")
+
+2
+
+![название](pages/part1/_images/atr_mdb_bln.png "текст_подсказки")
+
+3
+
+![название](ru/pages/part1/_images/atr_mdb_bln.png "текст_подсказки")
+
+
+4 прочее
+
 <p align="center">
 <img src="docs/ru/pages/part1/_images/agregaciya_obj.png">
 </p>
