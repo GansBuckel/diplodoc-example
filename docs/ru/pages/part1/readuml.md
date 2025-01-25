@@ -1,60 +1,8 @@
 # Правила описания UML-диаграмм
 
-1
+Для выбора оплаты товара с помощью банковской карты корзине с отобранными снимками необходимо нажать кнопку "Оформить заказ". Оплата происходит через ПАО СБЕРБАНК с использованием банковских карт следующих платёжных систем:
 
-![название](_images/agregaciya_obj.png "текст_подсказки")
-
-2
-
-![название](pages/part1/_images/atr_mdb_bln.png "текст_подсказки")
-
-3
-
-![название](ru/pages/part1/_images/atr_mdb_bln.png "текст_подсказки")
-
-
-4 прочее
-
-<p align="center">
-<img src="docs/ru/pages/part1/_images/agregaciya_obj.png">
-</p>
-
-<p align="center">
-<img src="ru/pages/part1/_images/agregaciya_obj.png">
-</p>
-
-<p align="center">
-<img src="pages/part1/_images/agregaciya_obj.png">
-</p>
-
-<p align="center">
-<img src="part1/_images/agregaciya_obj.png">
-</p>
-
-<p align="center">
-<img src="_images/atr_dbase_bln.png">
-</p>
-
-<p align="center">
-<img src="./_images/atr_mdb_bln.png">
-</p>
-
-<p align="center">
-<img src="../_images/atr_mdb_bln2.png">
-</p>
-
-<p align="center">
-<img src="../../_images/atrlistinfo_enumw.png">
-</p>
-
-<p align="center">
-<img src="../../../_images/atrlistinfo_enumw.png">
-</p>
-
-<p align="center">
-<img src="../../../../_images/atrlistinfo_enumw.png">
-</p>
-
-<p align="center">
-<img src="../../../../../_images/atrlistinfo_enumw.png">
-</p>
+* МИР ![mir](_assets/mir.png =56x)
+* VISA International ![visa](_assets/visa.png =56x)
+* Mastercard Worldwide ![mastercard](_assets/mastercard.png =56x)
+* JCB ![jcb](_assets/jcb.png =56x)
