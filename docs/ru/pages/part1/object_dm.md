@@ -54,10 +54,10 @@
 
 В меню классификационного описания ниже строки выбора вида объекта расположены четыре пиктограммы, нажатием на которые устанавливается характер локализации:
 
-<img src="_images/but_sign.png" height="22px"> — знак
-<img src="_images/but_line.png" height="22px"> — линия
-<img src="_images/but_area.png" height="22px"> — область
-<img src="_images/but_text.png" height="22px"> — выбор типа объекта «Подпись» или «Текст»
+<img src="_assets/but_sign.png" height="22px"> — знак
+<img src="_assets/but_line.png" height="22px"> — линия
+<img src="_assets/but_area.png" height="22px"> — область
+<img src="_assets/but_text.png" height="22px"> — выбор типа объекта «Подпись» или «Текст»
 
 Характеры локализации знак, линия и область могут быть выбраны для пространственного объекта или координированного атрибута, причём одновременно может быть выбрано несколько значений, т.е. объект данного класса может быть создан с любым типом координатного описания.
 
@@ -141,9 +141,9 @@
 
 В данном примере в окне легенда для объекта «Административная единица» разрешены три типа его создания:
 
-<img src="_images/but_nometric.png" height="22px"> — без метрики
-<img src="_images/but_sign.png" height="22px"> — знак
-<img src="_images/but_area.png" height="22px"> — область
+<img src="_assets/but_nometric.png" height="22px"> — без метрики
+<img src="_assets/but_sign.png" height="22px"> — знак
+<img src="_assets/but_area.png" height="22px"> — область
 
 Выбран для создания тип «без метрики».
 
