@@ -3,3 +3,10 @@ langs: ['ru']
 search:
   provider: local
   confidense: sparsed
+connector:
+    type:
+    github:
+        endpoint:
+        token:
+        owner:
+        repo:
