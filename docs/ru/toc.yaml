@@ -2,9 +2,9 @@ title: Документация ГИС «Нева»
 href: index.yaml
 navigation:
   logo:
-    url: './'
-    text: 'Документация ГИС «Нева»'
-    icon: '_assets/logo.png'
+    url: "./ru"
+    text: 'Вернуться на главную страницу'
+    icon: "./_assets/logo.png"
 items:
   - name: 1. ОБЩЕЕ ОПИСАНИЕ И ОСНОВНЫЕ ПОНЯТИЯ
     expanded: true
