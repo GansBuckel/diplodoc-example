@@ -1,10 +1,14 @@
-title: ПК «ГИС Нева»
+title: Документация ГИС «Нева»
 href: index.yaml
 navigation:
   logo:
     url: './'
     text: 'Документация ГИС «Нева»'
-    icon: './ru/_assets/logo.png'
+    icon: '_assets/logo.png'
+  header:
+    rightItems:
+      - type: search
+      - type: controls
 items:
   - name: 1. ОБЩЕЕ ОПИСАНИЕ И ОСНОВНЫЕ ПОНЯТИЯ
     include: { mode: link, path: pages/part1/toc.yaml }
