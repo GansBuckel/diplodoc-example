@@ -4,6 +4,7 @@ navigation:
   logo:
     url: "./ru"
     text: 'Документация ГИС «Нева»'
+    icon: "./_assets/logo.png"
 items:
   - name: 1. ОБЩЕЕ ОПИСАНИЕ И ОСНОВНЫЕ ПОНЯТИЯ
     expanded: true
