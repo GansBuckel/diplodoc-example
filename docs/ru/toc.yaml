@@ -5,10 +5,6 @@ navigation:
     url: './'
     text: 'Документация ГИС «Нева»'
     icon: '_assets/logo.png'
-  header:
-    rightItems:
-      - type: search
-      - type: controls
 items:
   - name: 1. ОБЩЕЕ ОПИСАНИЕ И ОСНОВНЫЕ ПОНЯТИЯ
     include: { mode: link, path: pages/part1/toc.yaml }
