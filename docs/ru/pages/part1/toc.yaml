@@ -22,7 +22,8 @@ items:
     href: service_atr.md
   - name: Основное меню головного программного модуля
     href: mainmenu.md
+  - name: Термины и определения
+    href: terms.md
   - name: Правила чтения UML-диаграмм
     href: readuml.md
-    
     

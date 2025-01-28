@@ -1,17 +1,17 @@
 title: ПК «ГИС&nbsp;Нева»
 href: index.yaml
 items:
-  - name: Общее описание и основные понятия
+  - name: 1. ОБЩЕЕ ОПИСАНИЕ И ОСНОВНЫЕ ПОНЯТИЯ
     include: { mode: link, path: pages/part1/toc.yaml }
-  - name: Управление составом и отображением
+  - name: 2. УПРАВЛЕНИЕ СОСТАВОМ И ОТОБРАЖЕНИЕМ
     include: { mode: link, path: pages/part2/toc.yaml }
-  - name: Создание и редактирование объектов
+  - name: 3. СОЗДАНИЕ И РЕДАКТИРОВАНИЕ ОБЪЕКТОВ
     include: { mode: link, path: pages/part3/toc.yaml }
-  - name: Операции над цифровыми картами
+  - name: 4. ОПЕРАЦИИ НАД ЦИФРОВЫМИ КАРТАМИ
     include: { mode: link, path: pages/part4/toc.yaml }
-  - name: Операции над растровыми изображениями
+  - name: 5. ОПЕРАЦИИ НАД РАСТРОВЫМИ ИЗОБРАЖЕНИЯМИ
     include: { mode: link, path: pages/part5/toc.yaml }
-  - name: Работа с выборками объектов
+  - name: 6. РАБОТА С ВЫБОРКАМИ ОБЪЕКТОВ
     include: { mode: link, path: pages/part6/toc.yaml }
-  - name: Работа с классификатором
+  - name: 7. РАБОТА С КЛАССИФИКАТОРОМ
     include: { mode: link, path: pages/part7/toc.yaml }
