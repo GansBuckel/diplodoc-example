@@ -3,8 +3,7 @@ href: index.yaml
 navigation:
   logo:
     url: "./ru"
-    text: 'Вернуться на главную страницу'
-    icon: "./_assets/logo.png"
+    text: 'Документация ГИС «Нева»'
 items:
   - name: 1. ОБЩЕЕ ОПИСАНИЕ И ОСНОВНЫЕ ПОНЯТИЯ
     expanded: true
