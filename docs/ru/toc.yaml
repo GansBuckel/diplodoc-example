@@ -4,10 +4,10 @@ navigation:
   logo:
     url: 'https://common---gh-ajebl115q7797oo11rl6.viewer.diplodoc.com/'
     dark:
-      icon: '_assets/logo.png'
-      text: 'Diplodoc'
+      icon: 'https://disk.yandex.ru/i/DHa8EmaZxLl_1w'
+      text: 'Документация ГИС «Нева»'
     light:
-      icon: '_assets/logo.png'
+      icon: 'https://disk.yandex.ru/i/8jERaqogV6U-3Q'
       text: 'Diplodoc'
   header:
     leftItems:
