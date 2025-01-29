@@ -2,12 +2,12 @@ title: Документация ГИС «Нева»
 href: index.yaml
 navigation:
   logo:
-    url: 'https://diplodoc.com'
+    url: 'https://common---gh-ajebl115q7797oo11rl6.viewer.diplodoc.com/'
     dark:
-      icon: 'https://storage.yandexcloud.net/diplodoc-www-assets/logo/ddos-logo-dark.svg'
+      icon: './ru/_assets/logo.png'
       text: 'Diplodoc'
     light:
-      icon: 'https://storage.yandexcloud.net/diplodoc-www-assets/navigation/diplodoc-logo.svg'
+      icon: './_assets/logo.png'
       text: 'Diplodoc'
   header:
     leftItems:
