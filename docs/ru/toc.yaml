@@ -1,10 +1,27 @@
-title: Документация ГИС «Нева»
+title: Docs navigationExample
 href: index.yaml
 navigation:
   logo:
-    url: "./ru"
-    text: 'Документация ГИС «Нева»'
-    icon: "./_assets/logo.png"
+    url: 'https://diplodoc.com'
+    dark:
+      icon: 'https://storage.yandexcloud.net/diplodoc-www-assets/logo/ddos-logo-dark.svg'
+      text: 'Diplodoc'
+    light:
+      icon: 'https://storage.yandexcloud.net/diplodoc-www-assets/navigation/diplodoc-logo.svg'
+      text: 'Diplodoc'
+  header:
+    leftItems:
+      - text: 'Relative Link'
+        type: 'link'
+        url: './ru/settings'
+      - text: 'Absolute Link'
+        type: 'link'
+        url: 'https://diplodoc.com/docs/ru/project/'
+    rightItems:
+      - text: 'Other Link'
+        type: 'link'
+        url: 'ru/contribution'
+      - type: controls
 items:
   - name: 1. ОБЩЕЕ ОПИСАНИЕ И ОСНОВНЫЕ ПОНЯТИЯ
     expanded: true
