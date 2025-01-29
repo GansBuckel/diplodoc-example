@@ -4,9 +4,9 @@ navigation:
   logo:
     url: './'
     dark:
-      icon: '_assets/logo_dark.svg'
+      icon: 'https://buckel.ukit.me/uploads/s/c/6/v/c6vxog5bdqpe/file/m0T84gNN.svg'
     light:
-      icon: '_assets/logo_gray.svg'
+      icon: 'https://buckel.ukit.me/uploads/s/c/6/v/c6vxog5bdqpe/file/a2KcXfIR.svg'
   header:
     leftItems:
       - text: 'Документация ГИС «Нева»'
