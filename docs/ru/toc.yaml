@@ -1,5 +1,5 @@
 title: Docs navigationExample
-href: index.md
+href: index.yaml
 navigation:
   logo:
     url: 'https://diplodoc.com'
@@ -22,3 +22,19 @@ navigation:
         type: 'link'
         url: 'ru/contribution'
       - type: controls
+items:
+  - name: 1. ОБЩЕЕ ОПИСАНИЕ И ОСНОВНЫЕ ПОНЯТИЯ
+    expanded: true
+    include: { mode: link, path: pages/part1/toc.yaml }
+  - name: 2. УПРАВЛЕНИЕ СОСТАВОМ И ОТОБРАЖЕНИЕМ
+    include: { mode: link, path: pages/part2/toc.yaml }
+  - name: 3. СОЗДАНИЕ И РЕДАКТИРОВАНИЕ ОБЪЕКТОВ
+    include: { mode: link, path: pages/part3/toc.yaml }
+  - name: 4. ОПЕРАЦИИ НАД ЦИФРОВЫМИ КАРТАМИ
+    include: { mode: link, path: pages/part4/toc.yaml }
+  - name: 5. ОПЕРАЦИИ НАД РАСТРОВЫМИ ИЗОБРАЖЕНИЯМИ
+    include: { mode: link, path: pages/part5/toc.yaml }
+  - name: 6. РАБОТА С ВЫБОРКАМИ ОБЪЕКТОВ
+    include: { mode: link, path: pages/part6/toc.yaml }
+  - name: 7. РАБОТА С КЛАССИФИКАТОРОМ
+    include: { mode: link, path: pages/part7/toc.yaml }
