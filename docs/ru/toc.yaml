@@ -13,7 +13,7 @@ navigation:
     leftItems:
       - text: 'Документация ГИС «Нева»'
         type: 'link'
-        url: './ru/'
+        url: './'
     rightItems:
       - type: controls
 items:
