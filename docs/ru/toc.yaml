@@ -4,9 +4,9 @@ navigation:
   logo:
     url: './'
     dark:
-      icon: 'https://i.ibb.co/DHH4D2z6/logo-gray.png'
+      icon: './_assets/logo_dark.svg'
     light:
-      icon: 'https://i.ibb.co/qYnB03jK/logo-dark.png'
+      icon: './_assets/logo_gray.svg'
   header:
     leftItems:
       - text: 'Документация ГИС «Нева»'
