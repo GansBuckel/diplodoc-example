@@ -1,4 +1,4 @@
-title: Docs navigationExample
+title: Документация ГИС «Нева»
 href: index.yaml
 navigation:
   logo:
@@ -11,16 +11,10 @@ navigation:
       text: 'Diplodoc'
   header:
     leftItems:
-      - text: 'Relative Link'
+      - text: 'Документация ГИС «Нева»'
         type: 'link'
-        url: './ru/settings'
-      - text: 'Absolute Link'
-        type: 'link'
-        url: 'https://diplodoc.com/docs/ru/project/'
+        url: './ru'
     rightItems:
-      - text: 'Other Link'
-        type: 'link'
-        url: 'ru/contribution'
       - type: controls
 items:
   - name: 1. ОБЩЕЕ ОПИСАНИЕ И ОСНОВНЫЕ ПОНЯТИЯ
