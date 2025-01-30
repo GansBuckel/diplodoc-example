@@ -4,9 +4,9 @@ navigation:
   logo:
     url: './'
     dark:
-      icon: 'https://github.com/GansBuckel/diplodoc-example/blob/df931a3708c401e17b72625d7c60c7e10adef452/images/logo_dark.svg'
+      icon: 'https://raw.githubusercontent.com/GansBuckel/diplodoc-example/refs/heads/main/images/logo_dark.svg'
     light:
-      icon: 'https://github.com/GansBuckel/diplodoc-example/blob/df931a3708c401e17b72625d7c60c7e10adef452/images/logo_dark.svg'
+      icon: 'https://raw.githubusercontent.com/GansBuckel/diplodoc-example/refs/heads/main/images/logo_gray.svg'
   header:
     leftItems:
       - text: 'Документация ГИС «Нева»'
