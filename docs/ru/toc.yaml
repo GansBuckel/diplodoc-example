@@ -4,9 +4,9 @@ navigation:
   logo:
     url: './'
     dark:
-      icon: 'https://raw.githubusercontent.com/GansBuckel/diplodoc-example/refs/heads/main/images/logo_dark.svg'
-    light:
       icon: 'https://raw.githubusercontent.com/GansBuckel/diplodoc-example/refs/heads/main/images/logo_gray.svg'
+    light:
+      icon: 'https://raw.githubusercontent.com/GansBuckel/diplodoc-example/refs/heads/main/images/logo_dark.svg'
   header:
     leftItems:
       - text: 'Документация ГИС «Нева»'
