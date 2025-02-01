@@ -2,6 +2,7 @@ allowHTML: true
 langs: ['ru']
 search:
   provider: local
+  toleranse: 2
   confidense: sparsed
 connector:
     type:
