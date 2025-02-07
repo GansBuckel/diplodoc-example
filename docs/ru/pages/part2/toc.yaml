@@ -1,8 +1,6 @@
 title: Часть 2. Управление составом и отображением
 items:
-  - name: Общая информация
-    href: allinfo.md
-  - name: Основные понятия
-    href: baseconcept.md
-  - name: Основное меню головного программного модуля
-    href: mainmenu.md
+  - name: Управление составом
+    href: squad_management.md
+  - name: Отображение цифровых карт
+    href: displaying_maps.md
