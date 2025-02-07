@@ -17,6 +17,7 @@ items:
     expanded: true
     include: { mode: link, path: pages/part1/toc.yaml }
   - name: 2. УПРАВЛЕНИЕ СОСТАВОМ И ОТОБРАЖЕНИЕМ
+    expanded: true
     include: { mode: link, path: pages/part2/toc.yaml }
   - name: 3. СОЗДАНИЕ И РЕДАКТИРОВАНИЕ ОБЪЕКТОВ
     include: { mode: link, path: pages/part3/toc.yaml }
